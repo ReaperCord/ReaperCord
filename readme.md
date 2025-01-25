@@ -5,7 +5,7 @@
 <tr>
 <td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReaperCord&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReaperCord&hide_progress=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </td>
     
 <td>
