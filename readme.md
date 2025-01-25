@@ -1,3 +1,2 @@
 <h1>Hello Folks!</h1>
-[![GitHub Streak](https://streak-stats.demolab.com?user=ReaperCord&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ReaperCord&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+https://github-readme-streak-stats-6bzdz8tss-reapercords-projects.vercel.app?user=ReaperCord&mode=weekly)](https://git.io/streak-stats
