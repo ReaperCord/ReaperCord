@@ -2,17 +2,6 @@
 <p>Me chamo <strong>Leandro Ribeiro</strong>, sou estudante de Análise de Desenvolvimento de Sistemas, atualmente no 2° Semestre. Abaixo você pode conferir alguns projetos que desenvolvi com as tecnologias que venho aprendo na faculdade! Sinta-se em casa.</p>
 
 <table style="border: 0px solid">
-<tr>
-<td>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReaperCord&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</td>
-    
-<td>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReaperCord&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</td>
-</tr>
 
 <tr>
 <td><strong>Tecnologia e topicos - 1° Semestre</strong></td>
