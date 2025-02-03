@@ -1,6 +1,12 @@
 <h1>Olá, Bem vindos! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="45" height="45" /></h1>
 <p>Me chamo <strong>Leandro Ribeiro</strong>, sou estudante de Análise de Desenvolvimento de Sistemas, atualmente no 2° Semestre. Abaixo você pode conferir alguns projetos que desenvolvi com as tecnologias que venho aprendo na faculdade! Sinta-se em casa.</p>
 
+<div>
+<a href="https://github.com/reaperCord">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <table style="border: 0px solid">
 
 <tr>
