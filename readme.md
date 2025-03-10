@@ -21,7 +21,7 @@
 <td><strong>Tecnologia e topicos - 2° Semestre</strong></td>
 <td>
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,py,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres)](https://skillicons.dev)
 </td>
 </tr>
 
