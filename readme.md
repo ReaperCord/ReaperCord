@@ -29,7 +29,7 @@
 <td><strong>Estudos complementares próprios</strong></td>
 <td>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,git,github)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,git,github,angular)](https://skillicons.dev) 
 </td>
 </tr>
 
